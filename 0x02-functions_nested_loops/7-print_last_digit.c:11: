@@ -1,0 +1,7 @@
+iist_st_digit.c:19: ERROR: trailing whitespace
+total: 1 errors, 1 warnings, 21 lines checked
+print_last_digit
+digit.c:19: ERROR: trailing whitespace
+total: 1 errors, 1 warnings, 21 lines checked
+print_last_digit
+
